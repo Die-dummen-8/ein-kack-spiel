@@ -1,0 +1,30 @@
+## _REDIRECTS ##
+# Hier gehören sonstige Redirects hin.
+
+
+
+############## INFORMATION ################
+##  Bitte diese Redirect so lassen wie   ##
+##               sie sind                ##
+###########################################
+
+
+
+# Wichtige Redirects
+/play          /game.html
+/game          /game.html
+/
+
+# EKS Releases
+/eks/download  https://github.com/Die-dummen-8/ein-kack-spiel/releases
+
+# Repository for Ein Kack Spiel
+/eks/repo      https://github.com/Die-dummen-8/ein-kack-spiel
+
+# DO NOT REMOVE PLEASE
+/eks/marco     https://mmmarco.de/
+/eks/mmmarco   https://mmmarco.de/
+/eks/tbored    https://tbored.de/
+
+# 404 ERROR
+/*             /404.html 404

@@ -1,4 +1,4 @@
-# Ein Kack Spiel
+# eks : Ein Kack Spiel
 
 Original (Ein Kack Spiel) von [GitHub/@CarrotsonaStick](https://github.com/CarrotsonaStick)
 
@@ -8,7 +8,7 @@ Dieses Spiel selbst wurde in HTML, CSS und Javascript erstellt und ist vollstän
 
 Ein Kack Spiel (eks) v6
 
-[**SPIELEN**](https://acht.mmmarco.de/) (PLACEHOLDER)
+[**SPIELEN**](/game.html)
 
 ****
-[mmmarco.de](https://mmmarco.de) ; [Email](mailto:marco@mmmarco.de)
+[Die dummen 8](https://acht.mmmarco.de) ; [Email](mailto:acht@acht.mmmarco.de)
